@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node": "^9.5.0"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "node": "^9.5.0",
+    "path": "^0.12.7",
+    "requirer": "0.0.4"
   }
 }

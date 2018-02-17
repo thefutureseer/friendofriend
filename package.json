@@ -1,5 +1,5 @@
 {
-  "name": "friendfinder",
+  "name": "friendofriend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -16,4 +16,12 @@
     "path": "^0.12.7",
     "requirer": "0.0.4"
   }
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefutureseer/friendofriend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thefutureseer/friendofriend/issues"
+  },
+  "homepage": "https://github.com/thefutureseer/friendofriend#readme"
 }

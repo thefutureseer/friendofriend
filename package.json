@@ -1,5 +1,5 @@
 {
-  "name": "friendofriend",
+  "name": "-y",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -15,8 +15,8 @@
     "node": "^9.5.0",
     "path": "^0.12.7",
     "requirer": "0.0.4"
-  }
-    "repository": {
+  },
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/thefutureseer/friendofriend.git"
   },
